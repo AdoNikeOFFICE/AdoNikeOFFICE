@@ -5,12 +5,12 @@
 <h1 align="center"> Hi, I'm AdoNikeOFFICE ✌</h1>
 <h2 align="center"><b>Developer | Student | Designer</b></h2>
 
+```html
 <p align="center">
   <a href="https://www.facebook.com/adonikeoffice/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook_adonikeoffice" width="20" color="white"/></a>
+  <img align="center" style="color: white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook_adonikeoffice" width="20" color="white"/></a>
 </p>
-
-
+```
 
 <p align="center">
   <em>
