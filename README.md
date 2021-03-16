@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/g5mxela.gif" width="300"/>
 
 <h1 align="center"> Hi, I'm AdoNikeOFFICE ✌</h1>
-<b>Developer | Student | Designer</b>
+<b align="center">Developer | Student | Designer</b>
 </p>
 
 ***Talking about Personal Stuffs...***
