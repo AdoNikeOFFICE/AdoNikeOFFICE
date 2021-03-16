@@ -14,6 +14,6 @@
  <b>GitHub Stats</b>
 <p>
  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adonikeoffice&show_icons=true&locale=en&layout=compact" alt="stats_adonikeoffice" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adonikeoffice&show_icons=true&locale=en&layout=compact" alt="stats_adonikeoffice"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adonikeoffice&show_icons=true&locale=en" alt="stats_adonikeoffice_v2" width="410" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adonikeoffice&show_icons=true&locale=en" alt="stats_adonikeoffice_v2" width="410"/><
