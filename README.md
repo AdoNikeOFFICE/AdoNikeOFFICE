@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/adonikeoffice/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook_adonikeoffice" width="15"/></a>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook_adonikeoffice" width="20" color="white"/></a>
 </p>
 
 
