@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </p>
-<hr>
-<img align="center" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+<p>
 <h1 align="center"> Hi, I'm AdoNikeOFFICE</h1>
 <h3 align="center">Developer | Designer | Student</h3>
 <p align="center">
