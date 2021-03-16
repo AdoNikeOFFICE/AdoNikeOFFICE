@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/g5mxela.gif" width="300" border-radius="50"/>
+  <img src="https://i.imgur.com/g5mxela.gif" width="300"/>
 </p>
 
 <h1 align="center"> Hi, I'm AdoNikeOFFICE ✌</h1>
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/adonikeoffice/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook_adonikeoffice" height="30" width="40" /></a>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook_adonikeoffice" width="15"/></a>
 </p>
 
 
