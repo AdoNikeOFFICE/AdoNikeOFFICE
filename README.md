@@ -3,9 +3,11 @@
 
 <h1 align="center"> Hi, I'm AdoNikeOFFICE ✌</h1>
 <h2 align="center"><b>Developer | Student | Designer</b></h2>
+</p>
 
-<a href="https://www.facebook.com/adonikeoffice/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook_adonikeoffice" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.facebook.com/adonikeoffice/" target="_blank">
+  <img align="center" src="https://i.imgur.com/vIzDPbH.png" alt="facebook_adonikeoffice" width="20" /></a>
 </p>
 
 <p align="center">
