@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://i.imgur.com/g5mxela.gif" height="200"/>
 </p>
 
 <h1 align="center"> Hi, I'm AdoNikeOFFICE ✌</h1>
 <h2 align="center"><b>Developer | Student | Designer</b></h2>
 
 <p align="center">
-<a href="https://www.facebook.com/adonikeoffice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook_adonikeoffice" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/adonikeoffice/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook_adonikeoffice" height="30" width="40" /></a>
 </p>
 
 
