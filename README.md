@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/g5mxela.gif" height="200"/>
+  <img src="https://i.imgur.com/g5mxela.gif" width="300" border-radius="50"/>
 </p>
 
 <h1 align="center"> Hi, I'm AdoNikeOFFICE ✌</h1>
