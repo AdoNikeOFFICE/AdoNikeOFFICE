@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://www.facebook.com/adonikeoffice/" target="_blank">
-  <img align="center" src="https://i.imgur.com/vIzDPbH.png" alt="facebook_adonikeoffice" width="20" /></a>
+  <img align="center" src="https://i.imgur.com/vIzDPbH.png" alt="facebook_adonikeoffice" width="25" /></a>
   
   <a href="https://www.instagram.com/adonikeoffice/" target="_blank">
-  <img align="center" src="https://i.imgur.com/ZcMrKcn.png" alt="instagram_adonikeoffice" width="20" /></a>
+  <img align="center" src="https://i.imgur.com/ZcMrKcn.png" alt="instagram_adonikeoffice" width="25" /></a>
 </p>
 
 <p align="center">
