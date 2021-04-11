@@ -6,14 +6,14 @@
 
 ## 📖 About me
 
-* 💻 I'm a Developer & Server Setuper. [Minecraft]
+* 💻 I'm a Developer. I focus primarily on Minecraft plugins, Discord bot developing, etc.
 * 💡 I like to explore new things and develop them.
 * 🌐 You can see some of my projects on (https://imgur.com/a/sJWpwno)
-🎓 I'm currently studying Informatics and Telecommunications. [IT]
-🌱 I'm on track for learning more about Java, JavaScript, Kotlin, Web developing, etc. about developing.
-✍️ In my free time, I working on Graphic Design and Support on GamerHost.pro.
-💬 Feel free to reach out to me for consulting and volunteering or just for some interesting discussion.
-✉️ You can shoot me an email at adonikeoffice@gmail.com or ado@gamerhost.pro. I'll try to respond as soon as I can.
+* 🎓 I'm currently studying Informatics and Telecommunications. [IT]
+* 🌱 I'm on track for learning more about Java, JavaScript, Kotlin, Web developing, etc. about developing.
+* ✍️ In my free time, I working on Graphic Design and Support on GamerHost.pro.
+* 💬 Feel free to reach out to me for consulting and volunteering or just for some interesting discussion.
+* ✉️ You can shoot me an email at adonikeoffice@gmail.com or ado@gamerhost.pro. I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
