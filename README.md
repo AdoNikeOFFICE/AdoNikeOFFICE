@@ -39,7 +39,7 @@
 
 ## ⚙️ GitHub Analytics
 
-![AdoNikeOFFICE's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=adonikeoffice&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![AdoNikeOFFICE's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=adonikeoffice#version3)
 
 ## 🤝🏻 Connect with Me
 
