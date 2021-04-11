@@ -39,7 +39,8 @@
 
 ## ⚙️ GitHub Analytics
 
-![AdoNikeOFFICE's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=adonikeoffice#version3)
+![AdoNikeOFFICE's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adonikeoffice#version3)
+[![AdoNikeOFFICE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adonikeoffice)
 
 ## 🤝🏻 Connect with Me
 
