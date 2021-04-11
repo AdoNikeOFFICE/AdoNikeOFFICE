@@ -36,9 +36,7 @@
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/adonikeoffice">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adonikeoffice&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonikeoffice&layout=compact)"/>
+![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=adonikeoffice&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 </a>
 </p>
 
