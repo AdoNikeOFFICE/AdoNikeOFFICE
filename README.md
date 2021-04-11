@@ -17,7 +17,7 @@
 
 ## 🛠 Languages
 
-(https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
@@ -33,12 +33,12 @@
 ![Xd](https://img.shields.io/badge/-Xd-05122A?style=flat&logo=adobe-xd)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/adonikeoffice">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdoNikeOFFICE&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdoNikeOFFICE&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
