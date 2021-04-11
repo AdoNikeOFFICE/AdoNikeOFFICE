@@ -34,11 +34,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 
 ### ⚙️ GitHub Analytics
-
-<p align="center">
-![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=adonikeoffice&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-</a>
-</p>
+![AdoNikeOFFICE's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=adonikeoffice&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
