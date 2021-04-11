@@ -15,11 +15,9 @@
 * 💬 Feel free to reach out to me for consulting and volunteering or just for some interesting discussion.
 * ✉️ You can shoot me an email at adonikeoffice@gmail.com or ado@gamerhost.pro. I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ## 🛠 Languages
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)
+(https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
