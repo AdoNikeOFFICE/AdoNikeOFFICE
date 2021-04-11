@@ -15,7 +15,9 @@
 * 💬 Feel free to reach out to me for consulting and volunteering or just for some interesting discussion.
 * ✉️ You can shoot me an email at adonikeoffice@gmail.com or ado@gamerhost.pro. I'll try to respond as soon as I can.
 
-## 🛠 Languages
+<!-- Programming Languages -->
+
+## 🛠 Programming Languages
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -24,6 +26,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+<!-- Tools, which I using -->
 
 ## 👨‍💻 Tools
 
@@ -34,16 +38,15 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 
 ### ⚙️ GitHub Analytics
+
 ![AdoNikeOFFICE's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=adonikeoffice&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="mailto:adonikeoffice@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail"/></a>
+<a href="https://instagram.com/adonikeoffice"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram"/></a>
+<a href="https://facebook.com/adonikeoffice"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook"/></a>
+<a href="https://www.buymeacoffee.com/adonikeoffice"><img src="https://img.shields.io/badge/-BuyMeACoffee-05122A?style=flat&logo=buy-me-a-coffee"/></a>
+<a href="https://www.discord.gg/g9B5fsc2yd"><img src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord"/></a>
 </p>
