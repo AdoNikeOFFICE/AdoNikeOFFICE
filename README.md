@@ -37,11 +37,11 @@
 ![Xd](https://img.shields.io/badge/-Xd-05122A?style=flat&logo=adobe-xd)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 
-### ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 
 ![AdoNikeOFFICE's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=adonikeoffice&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
-### 🤝🏻 Connect with Me
+## 🤝🏻 Connect with Me
 
 <p align="center">
 <a href="mailto:adonikeoffice@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail"/></a>
