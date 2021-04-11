@@ -1,18 +1,19 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<h2>Hey there! I'm AdoNikeOFFICE</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- About Me -->
 
-### 👨🏻‍💻 &nbsp;About Me
+## 📖 About me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+* 💻 I'm a Developer & Server Setuper. [Minecraft]
+* 💡 I like to explore new things and develop them.
+* 🌐 You can see some of my projects on (https://imgur.com/a/sJWpwno)
+🎓 I'm currently studying Informatics and Telecommunications. [IT]
+🌱 I'm on track for learning more about Java, JavaScript, Kotlin, Web developing, etc. about developing.
+✍️ In my free time, I working on Graphic Design and Support on GamerHost.pro.
+💬 Feel free to reach out to me for consulting and volunteering or just for some interesting discussion.
+✉️ You can shoot me an email at adonikeoffice@gmail.com or ado@gamerhost.pro. I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
