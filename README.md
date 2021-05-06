@@ -15,6 +15,17 @@
 * 💬 Feel free to reach out to me for consulting and volunteering or just for some interesting discussion.
 * ✉️ You can shoot me an email at adonikeoffice@gmail.com or ado@gamerhost.pro. I'll try to respond as soon as I can.
 
+<!-- Career Highlights -->
+
+## ✔ Career Highlights
+
+** GamerHost.pro - 3 years | Support Team
+** BuildPlay.cz - 2 years | Developer 
+
+* ActualLand.eu - 1 year | CEO & Developer
+* BeastBlock.cz - few months | Developer
+* Survality.cz - few months | Developer
+
 <!-- Programming Languages -->
 
 ## 🛠 Programming Languages
