@@ -19,8 +19,8 @@
 
 ## ✔ Career Highlights
 
-** GamerHost.pro - 3 years | Support Team
-** BuildPlay.cz - 2 years | Developer 
+* GamerHost.pro - 3 years | Support Team
+* BuildPlay.cz - 2 years | Developer 
 
 * ActualLand.eu - 1 year | CEO & Developer
 * BeastBlock.cz - few months | Developer
