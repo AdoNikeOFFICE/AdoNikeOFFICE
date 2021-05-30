@@ -8,7 +8,7 @@
 
 * 💻 I'm a Developer. I focus primarily on Minecraft plugins, Discord bot developing, etc.
 * 💡 I like to explore new things and develop them.
-* 🌐 You can see some of my projects on (https://imgur.com/a/sJWpwno)
+* 🌐 You can see some of my projects on (https://imgur.com/a/sJWpwno) | (https://www.mc-market.org/members/221188/) | (https://www.spigotmc.org/members/adoman.254519/)
 * 🎓 I'm currently studying Informatics and Telecommunications. [IT]
 * 🌱 I'm on track for learning more about Java, JavaScript, Kotlin, Web developing, etc. about developing.
 * ✍️ In my free time, I working on Graphic Design and Support on GamerHost.pro.
