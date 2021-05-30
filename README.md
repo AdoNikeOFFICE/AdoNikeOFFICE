@@ -2,6 +2,8 @@
 
 <h2>Hey there! I'm AdoNikeOFFICE</h2>
 
+Gamelity.cz Developer
+
 <!-- About Me -->
 
 ## 📖 About me
