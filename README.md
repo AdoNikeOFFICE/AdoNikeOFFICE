@@ -19,7 +19,8 @@
 
 ## ✔ Career Highlights
 
-* GamerHost.pro - 3 years | Support Team
+* GamerHost.pro - 3 years - NOW | Support Team
+* Gamelity.cz - NOW | Developer
 * BuildPlay.cz - 2 years | Developer 
 
 * ActualLand.eu - 1 year | CEO & Developer
