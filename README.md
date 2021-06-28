@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/743073996571934771/858323788072747038/watermark.png" height="175px"/></a>
+<a href="#"><img width="30%" height="auto" src="https://cdn.discordapp.com/attachments/743073996571934771/858323788072747038/watermark.png" height="175px"/></a>
 
 <h2>Hey there! I'm AdoNikeOFFICE</h2>
 
