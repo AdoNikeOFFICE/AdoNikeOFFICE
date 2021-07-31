@@ -51,6 +51,5 @@
 <a href="mailto:adonikeoffice@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/adonikeoffice"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/adonikeoffice"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.buymeacoffee.com/adonikeoffice"><img src="https://img.shields.io/badge/-BuyMeACoffee-05122A?style=flat&logo=buy-me-a-coffee&logoColor=white"/></a>
 <a href="https://www.discord.gg/g9B5fsc2yd"><img src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&logoColor=white"/></a>
 </p>
